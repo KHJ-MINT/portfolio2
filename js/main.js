@@ -1,3 +1,6 @@
+//구현할 동작들
+//단 .btnList의 span은 클릭되는 순간 비주얼의 움직임은 멈춘다.
+
 //변수 선언
 const header = document.querySelector('header');
 const logo = document.querySelector('.logo');

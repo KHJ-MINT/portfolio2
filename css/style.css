@@ -973,7 +973,7 @@ header .inner .headerRight nav .mainNav .mainNavList .subTit div ul > li {
 
 #joinUs {
   width: 100%;
-  background-image: url("../img/main/section2_bg.jpg");
+  background-image: url("../img/visual/section2_bg.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: 110%;
@@ -1262,11 +1262,11 @@ footer .inner .info .company .address ul {
         -ms-flex-pack: end;
             justify-content: flex-end;
   }
-  header .inner .logo h1 {
+  header .inner .logo div {
     width: 15%;
   }
-  header .inner .logo h1 img {
-    width: 85%;
+  header .inner .logo div img {
+    width: 70%;
   }
   header .inner nav {
     display: none;
@@ -1315,7 +1315,7 @@ footer .inner .info .company .address ul {
   }
   #mainVisual .mainVisualImg .listBtn {
     left: 50%;
-    bottom: 55%;
+    bottom: 20%;
     -webkit-transform: translateX(-50%);
             transform: translateX(-50%);
   }
@@ -1488,11 +1488,11 @@ footer .inner .info .company .address ul {
         -ms-flex-pack: end;
             justify-content: flex-end;
   }
-  header .inner .logo h1 {
+  header .inner .logo div {
     width: 15%;
   }
-  header .inner .logo h1 img {
-    width: 100%;
+  header .inner .logo div img {
+    width: 65%;
   }
   header .inner nav {
     display: none;
@@ -1535,7 +1535,7 @@ footer .inner .info .company .address ul {
   }
   #mainVisual .mainVisualImg .listBtn {
     left: 50%;
-    bottom: -50%;
+    bottom: -25%;
     -webkit-transform: translateX(-50%);
             transform: translateX(-50%);
   }
@@ -1586,7 +1586,7 @@ footer .inner .info .company .address ul {
     min-width: 730px;
   }
   #joinUs {
-    background-image: url("../img/main/section2_bg_m.jpg");
+    background-image: url("../img/visual/section2_bg_m.jpg");
     background-position: center 120%;
     background-size: 100% 130%;
     height: 1200px;
